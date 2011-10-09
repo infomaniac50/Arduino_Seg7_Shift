@@ -1,0 +1,4 @@
+Seg7 KEYWORD1
+init KEYWORD2
+sendNumber KEYWORD2
+clear KEYWORD2
